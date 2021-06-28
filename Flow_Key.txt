@@ -1,0 +1,6 @@
+
+ Store private key safely and don't share with anyone!
+
+Address: 0x5034fa86fb8d912e
+Private Key      71cedf3704d12518c51911da5744a0a7149fe2f88a37b4dbfbabdd993d0449c0
+Public Key       6bb2df5aba1d16f6a403227f69d3a2c69997c417d739d06332a0eb5969e613af4b63834e1c411e432b4c3a945d9919565395e94b11d2ec9f5f001a802447eb31
